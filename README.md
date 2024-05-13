@@ -3,7 +3,7 @@
 ___
 
 <p align="center">
-    <img src="assets/writeJSBlack.gif" width="600" height="400" alt="Your GIF">
+    <img src="assets/writeJSBlack.gif" width="540" height="360" alt="Your GIF">
 </p>
 
 <!--
