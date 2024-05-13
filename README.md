@@ -6,6 +6,14 @@ ___
     <img src="assets/writeJSBlack.gif" width="540" height="360" alt="Your GIF">
 </p>
 
+## **About Me**
+
++ 2000+ hours of web application development.
++ participated in the development of more than five projects
++ like to study new technologies and immerse myself in the development process
++ love my cat 😼
+
+
 <!--
 **talismanchik/talismanchik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
