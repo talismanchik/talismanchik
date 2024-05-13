@@ -2,7 +2,6 @@
 
 ___
 
-![Header](assets/writeJS.gif)
 <div style="display: flex; justify-content: center;">
     <img src="assets/writeJS.gif" width="600" height="400" alt="Your GIF">
 </div>
