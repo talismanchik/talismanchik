@@ -1,7 +1,7 @@
 ### Hi 👋 I'm Eugene, a frontend developer 👩‍💻
 ___
 
-![Header](assets/jsGIF.gif)
+![Header](assets/writwJS.gif)
 <!--
 **talismanchik/talismanchik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
