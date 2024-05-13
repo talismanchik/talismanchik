@@ -1,8 +1,12 @@
 ### Hi 👋 I'm Eugene, a frontend developer 👩‍💻
+
 ___
 
 ![Header](assets/writeJS.gif)
-<img src="assets/writeJS.gif" width="240" height="160" alt="Your GIF">
+<div style="display: flex; justify-content: center;">
+    <img src="assets/writeJS.gif" width="600" height="400" alt="Your GIF">
+</div>
+
 <!--
 **talismanchik/talismanchik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
