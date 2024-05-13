@@ -2,9 +2,9 @@
 
 ___
 
-<div style="display: flex; justify-content: center;">
-    <img src="assets/writeJS.gif" width="600" height="400" alt="Your GIF">
-</div>
+<p align="center">
+    <img src="assets/writeJSBlack.gif" width="600" height="400" alt="Your GIF">
+</p>
 
 <!--
 **talismanchik/talismanchik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
