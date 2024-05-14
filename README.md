@@ -57,8 +57,8 @@ ___
 
 <div align="center">
 
-<a href="https://github.com/talismanchik">
-<img alt="GitHub" src="https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=GitHub"  target="_blank"/>
+<a href="https://t.me/EugeneNest"  target="_blank">
+<img alt="GitHub" src="https://img.shields.io/badge/-telegram-000?style=for-the-badge&logo=telegram"  target="_blank"/>
 </a>
 
 [![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=GitHub)](https://github.com/talismanchik)
