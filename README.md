@@ -57,11 +57,14 @@ ___
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=GitHub)](https://github.com/talismanchik){:target="_blank"}
-[![telegram](https://img.shields.io/badge/-telegram-000?style=for-the-badge&logo=telegram)](https://t.me/EugeneNest){:target="_blank"}
-[![instagram](https://img.shields.io/badge/-instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/eugene_nest/){:target="_blank"}
-[![linkedin](https://img.shields.io/badge/-linkedin-000?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/eugene-nesterenko-2a25b2265/){:target="_blank"}
+<a target="_blank">
 
+[![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=GitHub)](https://github.com/talismanchik)
+[![telegram](https://img.shields.io/badge/-telegram-000?style=for-the-badge&logo=telegram)](https://t.me/EugeneNest)
+[![instagram](https://img.shields.io/badge/-instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/eugene_nest/)
+[![linkedin](https://img.shields.io/badge/-linkedin-000?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/eugene-nesterenko-2a25b2265/)
+
+</a>
 </div>
 
 
