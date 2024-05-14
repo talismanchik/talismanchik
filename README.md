@@ -1,4 +1,8 @@
-### Hi 👋 I'm Eugene, a frontend developer 👩‍💻
+<div style="display: flex ; justify-content: center">
+
+## **Hi 👋 I'm Eugene, a frontend developer 👩‍💻**
+
+</div>
 
 ___
 
