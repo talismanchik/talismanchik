@@ -1,8 +1,10 @@
-<div style="display: flex ; justify-content: center">
+
+<div align="center">
 
 ## **Hi 👋 I'm Eugene, a frontend developer 👩‍💻**
 
 </div>
+
 
 ___
 
@@ -21,7 +23,8 @@ ___
 ___
 
 ### **Languages and Tools:**
-<div style="text-align: center ; display: flex; align-items: center ; justify-content: center">
+
+<div align="center">
 
 ![JS](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)
 ![TS](https://img.shields.io/badge/-typescript-000?style=for-the-badge&logo=typescript)
@@ -51,7 +54,8 @@ ___
 ___
 
 ### **📫 Connect with me:**
-<div style="display: flex; align-items: center ; justify-content: center">
+
+<div align="center">
 
 [![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=GitHub)](https://github.com/talismanchik)
 [![telegram](https://img.shields.io/badge/-telegram-000?style=for-the-badge&logo=telegram)](https://t.me/EugeneNest)
